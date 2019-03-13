@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/leeminji/portfolio/issues"
   },
-  "homepage": "https://github.com/leeminji/portfolio.io#readme"
+  "homepage": "https://github.com/leeminji/portfolio.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-prettier-eslint": "^1.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
 }
